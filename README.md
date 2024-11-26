@@ -1,2 +1,5 @@
-# text_rep
-python_text_replace
+# python_text_replace
+アドオンを作成する際に識別子を変換する場合、ファイル名の置き換えとファイル内の置き換えを別々のソフトウェアで行わなければいけない二度手間状態だったので作成しました。
+
+# install
+releasesからダウンロードをお願いします。
